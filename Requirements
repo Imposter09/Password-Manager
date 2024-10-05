@@ -1,0 +1,23 @@
+Make sure you have a Reliable python version which is compatible with the libraries (My Python version is 3.11)
+
+
+Libraries needed : Tkinter, pyperclip, Fernet, random, json
+
+
+Install them using
+
+
+``` 
+
+pip install <LibraryName>
+
+```
+
+
+
+Make sure your pip works 
+
+And that will be it!!
+
+
+  
